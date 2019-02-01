@@ -1,0 +1,22 @@
+Informazioni e termini:
+  L'applicazione: "Archive Reponsive" è un'applicazione che permette agli utenti di risparmiare spazio svuotando
+  automaticamente il cestino con un intervallo di tempo specificato dall'utente. Il timer di intervallo dell'app
+  inizierà soltanto quando all'interno del cestino ci sarà almeno un file.
+
+Privacy Policy:
+  L'applicazione "Archive Responsive" non ottiene nessun dato dall'utente, tuttavia avrò bisogno di alcuni dati,
+  secondo la politica privacy di Apple, per utilizzare l'Apple Analytics Service. Che analizzerà il numero
+  dei download e vari dati dell'App sull'App Store. Quest'app non necessita di NESSUN DATO, meno che la password
+  dell'utente amministratore che servirà per dare i permessi all'app in modo tale che può svuotare il cestino e
+  controllare i file all'interno del cestino.
+  
+Ulteriori informazioni:
+  L'applicazione non avrà bisogno di creare cartelle aggiuntive nel computer, tuttavia avvierà un ciclo continuo
+  per la verifica dei file all'interno del cestino. Questo potrebbe comportare un aumento minimo di "sforzo" della
+  memoria RAM. L'applicazione dovrà rimanere aperta per funzionare, perciò si visualizzerà l'icona nella barra della
+  dock.
+  
+  
+
+Per ulteriori informazioni contattare:
+  fracassettisimo@outlook.it
