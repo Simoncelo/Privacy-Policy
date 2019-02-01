@@ -6,12 +6,12 @@ Informazioni e termini:
 Privacy Policy:
   L'applicazione "Archive Responsive" non ottiene nessun dato dall'utente, tuttavia avrò bisogno di alcuni dati,
   secondo la politica privacy di Apple, per utilizzare l'Apple Analytics Service. Che analizzerà il numero
-  dei download e vari dati dell'App sull'App Store. Quest'app non necessita di NESSUN DATO, meno che la password
+  dei download e vari dati dell'App sull'App Store. Quest'app necessita di password
   dell'utente amministratore che servirà per dare i permessi all'app in modo tale che può svuotare il cestino e
-  controllare i file all'interno del cestino.
+  controllare i file all'interno del cestino. E nome utente così da creare la cartella necessaria e recuperare i vari file.
   
 Ulteriori informazioni:
-  L'applicazione non avrà bisogno di creare cartelle aggiuntive nel computer, tuttavia avvierà un ciclo continuo
+  L'applicazione ha bisogno di creare una cartella alla directory "~/Library/Application Support/Archive-Responsive". L'applicazione avvierà inoltre un ciclo continuo
   per la verifica dei file all'interno del cestino. Questo potrebbe comportare un aumento minimo di "sforzo" della
   memoria RAM. L'applicazione dovrà rimanere aperta per funzionare, perciò si visualizzerà l'icona nella barra della
   dock.
